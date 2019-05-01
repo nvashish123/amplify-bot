@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
 
 export default class App extends React.Component {
   state = {
-    botName: "BookTrip_locval",
+    botName: "BookTrip_dev",
     welcomeMessage: "Welcome, what would you like to do today?"
   };
 
@@ -39,7 +39,7 @@ export default class App extends React.Component {
     ]);
 
     this.setState({
-      botName: "BookTrip_locval"
+      botName: "BookTrip_dev"
     });
 
     return "Trip booked. Thank you! what would you like to do next?";
