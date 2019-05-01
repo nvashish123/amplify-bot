@@ -1,0 +1,19 @@
+{
+    "locval": {
+        "awscloudformation": {
+            "AuthRoleName": "botapp-20190501115113-authRole",
+            "UnauthRoleArn": "arn:aws:iam::905621505184:role/botapp-20190501115113-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::905621505184:role/botapp-20190501115113-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "botapp-20190501115113-deployment",
+            "UnauthRoleName": "botapp-20190501115113-unauthRole",
+            "StackName": "botapp-20190501115113",
+            "StackId": "arn:aws:cloudformation:us-east-1:905621505184:stack/botapp-20190501115113/f2af57e0-6c28-11e9-a030-0a583df6bf38"
+        },
+        "categories": {
+            "auth": {
+                "cognito83e3d973": {}
+            }
+        }
+    }
+}
